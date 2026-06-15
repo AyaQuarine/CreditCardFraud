@@ -1,2 +1,3 @@
-rapport/
-presentation/
+.venvCreditCard/
+.env
+data/
